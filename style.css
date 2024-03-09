@@ -1,0 +1,17 @@
+* {
+    font-family: "Copperplate", sans-serif;
+    background-color: bisque;
+}
+
+.title {
+    background-color: lightcoral;
+}
+.recipe-links {
+    font-family: "Copperplate", sans-serif;
+    font-weight: lighter;
+}
+
+.flag {
+    width: 300px;
+    height: auto;
+}

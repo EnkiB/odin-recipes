@@ -1,0 +1,22 @@
+* {
+    font-family: "Copperplate", sans-serif;
+    background-color: bisque;
+}
+.title {
+    background-color: lightcoral;
+}
+.recipe-image {
+    width: 300px;
+    height: auto;
+}
+
+.title {
+    font-size: xx-large;
+}
+
+.header {
+    font-size: x-large;
+}
+
+
+
